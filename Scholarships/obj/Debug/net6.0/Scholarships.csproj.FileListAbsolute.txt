@@ -1,0 +1,15 @@
+C:\Users\an7on\Desktop\alo\Scholarships\obj\Debug\net6.0\Scholarships.csproj.AssemblyReference.cache
+C:\Users\an7on\Desktop\alo\Scholarships\obj\Debug\net6.0\Scholarships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\an7on\Desktop\alo\Scholarships\obj\Debug\net6.0\Scholarships.AssemblyInfoInputs.cache
+C:\Users\an7on\Desktop\alo\Scholarships\obj\Debug\net6.0\Scholarships.AssemblyInfo.cs
+C:\Users\an7on\Desktop\alo\Scholarships\obj\Debug\net6.0\Scholarships.csproj.CoreCompileInputs.cache
+C:\Users\an7on\Desktop\alo\Scholarships\bin\Debug\net6.0\Scholarships.exe
+C:\Users\an7on\Desktop\alo\Scholarships\bin\Debug\net6.0\Scholarships.deps.json
+C:\Users\an7on\Desktop\alo\Scholarships\bin\Debug\net6.0\Scholarships.runtimeconfig.json
+C:\Users\an7on\Desktop\alo\Scholarships\bin\Debug\net6.0\Scholarships.dll
+C:\Users\an7on\Desktop\alo\Scholarships\bin\Debug\net6.0\Scholarships.pdb
+C:\Users\an7on\Desktop\alo\Scholarships\obj\Debug\net6.0\Scholarships.dll
+C:\Users\an7on\Desktop\alo\Scholarships\obj\Debug\net6.0\refint\Scholarships.dll
+C:\Users\an7on\Desktop\alo\Scholarships\obj\Debug\net6.0\Scholarships.pdb
+C:\Users\an7on\Desktop\alo\Scholarships\obj\Debug\net6.0\Scholarships.genruntimeconfig.cache
+C:\Users\an7on\Desktop\alo\Scholarships\obj\Debug\net6.0\ref\Scholarships.dll
